@@ -80,3 +80,7 @@ body {
 	padding: 0 32px;
 	text-align: center;
 }
+.button-link {
+	display: inline-block;
+	max-width: 170px;
+}

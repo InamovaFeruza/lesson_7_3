@@ -60,7 +60,7 @@ body {
 }
 .item {
 	color: #424551;
-	background-image: url("/img/icons/chek.png");
+	background-image: url("../img/icons/chek.png");
 	background-repeat: no-repeat;
 	padding-left: 32px;
 	line-height: 1.6;
@@ -82,5 +82,5 @@ body {
 }
 .button-link {
 	display: inline-block;
-	max-width: 170px;
+	max-width: 163px;
 }
